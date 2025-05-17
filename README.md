@@ -2,7 +2,8 @@
 ## Installation
  ```bash
  conda env create -n flowmse python = 3.11  
- 
+```
+```bash
  pip install -r requirements.txt 
  ```
 ## Training
